@@ -1,0 +1,55 @@
+#nav{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style: none;
+    background-color: crimson;
+}
+
+#nav li{
+    margin: 5px;
+    padding: 10px 15px;
+}
+
+#nav li:hover{
+    background-color: darkgoldenrod;
+}
+
+#nav a{
+    text-decoration: none;
+}
+
+/* modelo de caja */
+.padre{
+    background-color: blueviolet;
+    padding: 20px;
+}
+.hijo{
+    background-color: aquamarine;
+    padding: 100px;
+    border: 10px solid black;
+    margin: 30px;
+}
+/* componente */
+#contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: darkorange;
+    gap: 1rem;
+}
+.card{
+    width: 200px;
+    background-color: deeppink;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 8px black;
+}
+.card img{
+    width: 100%;
+    border-radius: 8px;
+}
+.card p{
+    color: blue;
+    background-color: beige;
+}
