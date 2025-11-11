@@ -1,9 +1,9 @@
 // componente mejorado
 
 const productos = [
-    { nombre: "galaxia", precio: 30, img: "https://th.bing.com/th/id/R.13fe574aa993c144fbed2fbf64ff6a28?rik=znJCPXSD8c%2fqjA&riu=http%3a%2f%2fwww.elfirmamento.com%2fgaleria%2fmessier%2ffotos_messier%2fM31_2011_2000.jpg&ehk=02OvLfSVhW0gTDoIM9bhYDBBHGEd3P0susTgThpnBBw%3d&risl=1&pid=ImgRaw&r=0" },
+    { nombre: "iphone", precio: 30000, img: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-compare-iphone-17-pro-202509?wid=400&hei=512&fmt=jpeg&qlt=90&.v=M0dlUVBobHVpY1h1dmlaR3RZekpEMi9sbCsxVVJmYjNiS29STjQrZEV5NnNlL1VpWDFHcHBMQXVUWWdWdkZZNEk4YjFEWjhuZXFwNUlmRWZZRFVkVmtQN0dKS3RDVnJRc1haUzhoeEN5eEpWcnBaYlhkL0dOd2g3cENJOVZNejQ" },
     { nombre: "coche", precio: 5000000, img: "https://cdn.24net.cz/5/obrazek/lamborghini-revuelto-65591" },
-    { nombre: "galaxia", precio: 30, img: "https://th.bing.com/th/id/R.13fe574aa993c144fbed2fbf64ff6a28?rik=znJCPXSD8c%2fqjA&riu=http%3a%2f%2fwww.elfirmamento.com%2fgaleria%2fmessier%2ffotos_messier%2fM31_2011_2000.jpg&ehk=02OvLfSVhW0gTDoIM9bhYDBBHGEd3P0susTgThpnBBw%3d&risl=1&pid=ImgRaw&r=0" },
+    { nombre: "iphone", precio: 30000, img: "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-compare-iphone-17-pro-202509?wid=400&hei=512&fmt=jpeg&qlt=90&.v=M0dlUVBobHVpY1h1dmlaR3RZekpEMi9sbCsxVVJmYjNiS29STjQrZEV5NnNlL1VpWDFHcHBMQXVUWWdWdkZZNEk4YjFEWjhuZXFwNUlmRWZZRFVkVmtQN0dKS3RDVnJRc1haUzhoeEN5eEpWcnBaYlhkL0dOd2g3cENJOVZNejQ" },
     { nombre: "coche", precio: 5000000, img: "https://cdn.24net.cz/5/obrazek/lamborghini-revuelto-65591" }
 ];
 
