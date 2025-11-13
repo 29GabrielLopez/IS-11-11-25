@@ -35,15 +35,15 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    background-color: darkorange;
+    background-color: rgb(228, 73, 35);
     gap: 1rem;
 }
 .card{
     width: 200px;
-    background-color: deeppink;
+    background-color: rgb(248, 162, 13);
     border-radius: 10px;
     text-align: center;
-    box-shadow: 0 4px 8px black;
+    box-shadow: 0 4px 8px rgb(255, 255, 253);
 }
 .card img{
     width: 100%;
@@ -53,3 +53,13 @@
     color: blue;
     background-color: beige;
 }
+
+/* Carro */
+#carroLista{
+    list-style: none;
+    padding: 10px;
+    margin: 10px;
+    border: 5px solid rgb(255, 252, 53);
+    background-color: rgb(246, 49, 49);
+}
+
